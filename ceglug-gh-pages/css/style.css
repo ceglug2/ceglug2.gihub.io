@@ -1,0 +1,20 @@
+.overlay{
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+  background-color: grey;
+  opacity: .6;
+}
+
+.foot-container{
+  z-index: 1000 !important;
+}
+
+
+.overlay-wrapper{
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
